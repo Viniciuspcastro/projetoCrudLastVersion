@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Geladeira",
+      "price": "2000",
+      "id": 5
+    },
+    {
+      "name": "Copo Stanley",
+      "price": "150",
+      "id": 6
+    }
+  ]
+}
